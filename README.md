@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+你好 我是范诗健 哈哈哈哈哈哈哈哈哈哈
 
 You can use the [editor on GitHub](https://github.com/fanshijian/fanshijian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
